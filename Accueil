@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carte touristique de Casablanca</title>
+  <!-- Styles CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur la carte touristique de Casablanca !</h1>
+    <p>Découvrez les merveilles de Casablanca grâce à notre carte interactive. Explorez les attractions emblématiques, dégustez la cuisine locale et plongez-vous dans l'ambiance unique de cette ville marocaine fascinante.</p>
+    <!-- Bouton de redirection vers la carte -->
+    <a href="URL_vers_votre_carte_touristique_de_Casablanca" class="button">Commencer l'exploration</a>
+  </header>
+  <!-- Autres contenus de la page (si nécessaire) -->
+  <footer>
+    <!-- Pied de page -->
+  </footer>
+</body>
+</html>
